@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Park CleanUp 2", "Park CleanUp 2\Park CleanUp 2.vcxproj", "{91DECD65-BC95-40AD-869E-AED526470EF2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F0948848-3DCC-460B-A75D-A86986DB7003} = {F0948848-3DCC-460B-A75D-A86986DB7003}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParkCleanUpdater", "ParkCleanUpdater\ParkCleanUpdater.vcxproj", "{F0948848-3DCC-460B-A75D-A86986DB7003}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FilelistBuilder", "FilelistBuilder\FilelistBuilder.vcxproj", "{1BB7B969-4F51-455B-B717-53D7A1205954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DECD65-BC95-40AD-869E-AED526470EF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91DECD65-BC95-40AD-869E-AED526470EF2}.Debug|Win32.Build.0 = Debug|Win32
+		{91DECD65-BC95-40AD-869E-AED526470EF2}.Release|Win32.ActiveCfg = Release|Win32
+		{91DECD65-BC95-40AD-869E-AED526470EF2}.Release|Win32.Build.0 = Release|Win32
+		{F0948848-3DCC-460B-A75D-A86986DB7003}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0948848-3DCC-460B-A75D-A86986DB7003}.Debug|Win32.Build.0 = Debug|Win32
+		{F0948848-3DCC-460B-A75D-A86986DB7003}.Release|Win32.ActiveCfg = Release|Win32
+		{F0948848-3DCC-460B-A75D-A86986DB7003}.Release|Win32.Build.0 = Release|Win32
+		{1BB7B969-4F51-455B-B717-53D7A1205954}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BB7B969-4F51-455B-B717-53D7A1205954}.Debug|Win32.Build.0 = Debug|Win32
+		{1BB7B969-4F51-455B-B717-53D7A1205954}.Release|Win32.ActiveCfg = Release|Win32
+		{1BB7B969-4F51-455B-B717-53D7A1205954}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+- Item filterscherm met savefunctie:
+    Select items [by name][by type] [INPUT]   {Clear inputsavelist}

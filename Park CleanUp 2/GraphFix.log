@@ -1,0 +1,9 @@
+Driver          : nvumdshim.dll
+Description     : NVIDIA GeForce GT 640 
+DeviceName      : \\.\DISPLAY1
+VendorID     (*): 4318
+DeviceID     (*): 4033
+SubSysID        : 893260888
+Revision        : 161
+WHQLLevel       : 0
+DriverVersion(*): 0x00090012000D0801
